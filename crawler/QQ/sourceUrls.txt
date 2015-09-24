@@ -1,0 +1,11 @@
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_nba
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_cba
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_spa
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_eng
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_football
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_09afc
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_csl
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_tennis
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_others
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_fashion
+http://info.3g.qq.com/g/s?icfa=sports_h&aid=template&tid=sports_running
